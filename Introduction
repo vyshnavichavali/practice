@@ -1,0 +1,91 @@
+1. * Tell me about Python?
+           .Python is a general purpose high level programming language.
+           .Python was developed by Guido Van Rossam in 1989 while working at National Research Institute at Netherlands.
+           .But officially Python was made available to public in 1991. The official Date of Birth for Python is : Feb 20th 1991.
+           .Python is recommended as first programming language for beginners
+2. Why Python is so popular now a days?
+            The python language is one of the most accessible programming languages available because
+            it has simplified syntax and not complicated, which gives more emphasis on natural language.
+            Due to its ease of learning and usage, python codes can be easily written and executed much faster than
+            other programming languages
+3. * Features of Python
+                           Easy-to-learn − Python has few keywords, simple structure, and a clearly defined syntax.
+                                            This allows the programmer to pick up the language quickly.
+
+                      	   Easy-to-read − Python code is more clearly defined and visible to the eyes.
+
+                           Easy-to-maintain − Python's source code is fairly easy-to-maintain.
+
+                           A broad standard library − Python's bulk of the library is very portable and cross-platform compatible on
+                                                      UNIX, Windows, and Macintosh.
+
+                           Interactive Mode − Python supports interactive mode which allows
+                                              interactive testing and debugging of snippets of code.
+
+                           Portable − Python can run on a wide variety of hardware platforms and has the same interface on all platforms.
+
+                           Extendable − You can add low-level modules to the Python interpreter. These modules enable
+                                        programmers to add to or customize their tools to be more efficient.
+
+                           Databases − Python provides interfaces to all major commercial databases.
+
+                           GUI Programming − Python supports GUI applications that can be created and ported to many system calls,
+                                             libraries and windows systems, such as Windows MFC, Macintosh, and the X Window system of Unix.
+
+                           Scalable − Python provides a better structure and support for large programs than shell scripting.
+
+4. * Advantages and Disadvantages of Python
+
+5. Interpreted vs Compiled time programming languages. Explain in detail
+        * A compiled language is converted into machine code so that the processor can execute it.
+        * An interpreted language is a language in which the implementations execute instructions directly without
+         earlier compiling a program into machine language.
+        * The compiled programs run faster than interpreted programs.
+
+6. * .py vs .pyc files
+        pyc contain the compiled bytecode of Python source files.
+        The Python interpreter loads . pyc files before . py files, so if they're present, it can save some time
+        by not having to re-compile the Python source code.
+
+7. * How compilation will happen internally. Explain in detail
+        Compilation − The source code in python is saved as a . py file which is then compiled into a format
+        known as byte code, byte code is then converted to machine code. After the compilation, the code is
+        stored in . pyc files and is regenerated when the source is updated
+
+8. * Why Python is Dynamically typed programming Language. Explain
+       *  Python is both a strongly typed and a dynamically typed language.
+       *  Strong typing means that variables do have a type and that the type matters when performing operations on a variable.
+       *  Dynamic typing means that the type of the variable is determined only during runtime.
+
+9. Python is Platform independent.Explain
+         Python is a system-independent programming language which means you do not need to change your code
+         when using it on different platforms
+
+10.Different ways to write python program.
+   Interactive, IDLE, CommandPrompt, IDE
+   Advantages, Disadvantages
+
+11.sourcecode vs bytecode
+        The distinction between source code and bytecode is that source code is a collection of computer
+        instructions expressed in a human-readable programming language,
+        whereas bytecode is an intermediate code between source code and machine code which is processed by a virtual machine.
+
+12.Register instruction set
+        The instruction set provides commands to the processor, to tell it what it needs to do.
+        The instruction set consists of addressing modes, instructions, native data types, registers,
+        memory architecture, interrupt, and exception handling, and external I/O.
+
+13.High Level vs Low level programming Language
+        High-level languages require the use of a compiler or an interpreter for translating into the
+        machine code.
+        Low-level language requires an assembler for directly translating the instructions of the
+        machine language. These languages have a very low memory efficiency.
+
+14. Python architecture
+         For a coding architect, Python is perfect for creating scripts used for parametric designs and
+         other demanding applications. It can also be used alongside other design tools like Grasshopper,
+         Autodesk Dynamo, and Rhino.
+
+15.* Explain Garbage Collection mechanism in detail.
+     The process of automatic deletion of unwanted or
+     unused objects to free the memory is called garbage collection in Python.
